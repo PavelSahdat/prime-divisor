@@ -1,6 +1,6 @@
 <?php
 
-//  Prime Factorization....
+//  Prime Factorization problem solve in php language....
 
 fscanf(STDIN,"%d",$n);
 $n2 = $n;
